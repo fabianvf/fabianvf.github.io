@@ -2,8 +2,7 @@
 title: Fabian's personal website
 email: fabian+github@fabianism.us
 description: > # this means to ignore newlines until "baseurl:"
-  I am a software developer living in Charlottesville, VA and working for
-  the Center for Open Science.
+  I am a software developer living in Charlottesville, VA
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://fabianism.us" # the base hostname & protocol for your site
 twitter_username: fabianismus
