@@ -132,7 +132,7 @@ I chose the `&` operator, mostly because the `|` operator would just be confusin
     (f & g) (10) == 9  # True
     (Composable(lambda x: x * 2) & f & g & g) (17) == 26  # True
 
-This allows function composition without all the grossness of having a global dictionary of functions to lookup, and all that jazz.
+This allows function composition without all the grossness of having a global dictionary of functions to lookup.
 It also allows non-decorated functions to be on the right hand side of the composition. On the other hand, it isn't a dot, and I
 don't know of any language that has ever used the `&` operator for function composition, so it doesn't really have the intuitive benefits
 that dot notation would.
