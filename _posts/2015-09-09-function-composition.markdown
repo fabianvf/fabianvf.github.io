@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Function Composition"
+title:  "Function Composition in Python"
 date:   2015-09-09 17:00:00
 categories: blog
 ---
