@@ -9,7 +9,7 @@ I'm breaking my long silence on this blog to talk about my most recent project.
 
 As a quick update, in 2016 I joined Red Hat, to work on a project that deployed cloud infrastructure products through a wizard-like UI. My team has since transitioned to working on Openshift, focusing on easy, generic ways to deploy and configure applications. This project is branching directly off that work. It deploys infrastructure and applications with miminal manual intervention.
 
-You can see the project [here](https://github.com/fabianvf/home-cluster)
+You can see the project [here](https://github.com/fabianvf/home-cluster). It is in a very WIP state, this blog post was as much to organize my own thoughts and plans as it was to announce the project.
 
 ## Goals
 This is a repository of playbooks/scripts to deploy, configure, and manage a private cloud for your home (well, my home). Ideally I'd like this to be an easy way to set up your own home private cloud and scale it easily on hardware you have laying around. This would be useful for things like setting up your home with local network backups or connecting IOT devices (like security cameras and other sensors) without needing to send all your information to some third party.
