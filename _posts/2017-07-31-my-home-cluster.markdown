@@ -33,8 +33,8 @@ My wife is a photographer, and generates between 1TB and 3TB of media per year. 
 ## What will this do?
 -  Deploy Foreman with TFTP and DNS
 -  Deploy a VPN (probably openVPN)
-- Create of CentOS Atomic PXE boot images (mostly done already)
-- Deploy of Openshift Origin (this is done)
+- Create CentOS Atomic PXE boot images (mostly done already)
+- Deploy Openshift Origin (this is done)
 - Deploy glusterfs daemonset (I have this mostly done, but will switch to using the [gk-deploy](https://github.com/gluster/gluster-kubernetes) tool)
   - Configuration of gluster for dynamic persistent volume provisioning 
 - Deployment and configuration of various services (feel free to add PRs to expand this list, it's a wishlist)
