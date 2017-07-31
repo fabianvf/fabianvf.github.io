@@ -24,7 +24,7 @@ My wife is a photographer, and generates between 1TB and 3TB of media per year. 
   - More drives is better
   - More RAM is better
   
-## Networking
+### Networking
 - Static IP for Foreman
 - Will need to configure your router to forward tftp traffic to Foreman
 - Will need a wildcard domain pointing to your openshift cluster (for routes to work)
