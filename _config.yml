@@ -1,12 +1,13 @@
 # Site settings
-title: Notes of Fabian von Feilitzsch
+title: fabianism.us
 email: fabian+github@fabianism.us
 description: > # this means to ignore newlines until "baseurl:"
-  I am a software developer living in Charlottesville, VA
+  I am a software engineer living in Raleigh, NC and working in open source on behalf of Red Hat.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://fabianism.us" # the base hostname & protocol for your site
 twitter_username: fabianismus
 github_username:  fabianvf
+linkedin_username: fabianvf
 
 # Build settings
 markdown: kramdown
