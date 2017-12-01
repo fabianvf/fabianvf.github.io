@@ -127,4 +127,5 @@ modifications that were required to get containerized puppet configured to run d
     </snip>
 
 Cheers,
+
 \- Fabian
