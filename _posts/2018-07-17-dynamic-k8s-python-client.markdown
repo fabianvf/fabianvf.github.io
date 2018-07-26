@@ -6,6 +6,7 @@ categories: blog
 ---
 
 [Originally posted on the Ansible blog](https://www.ansible.com/blog/dynamic-kubernetes-client-for-ansible)
+[Cross-posted to OpenShift blog](https://blog.openshift.com/dynamic-kubernetes-client-for-python-and-ansible)
 
 ## tl;dr
 
